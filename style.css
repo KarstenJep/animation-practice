@@ -4,10 +4,28 @@ body {
     
     }
 
+    header {
+        text-align:center;
+    }
     h1 {
-       text-align:center;
+       
        color: whitesmoke;
-       text-shadow: 5px 5px 4px black, 5px 5px 4px rgb(56, 158, 189);
+       text-shadow: 3px 3px 2px black, 5px 5px 4px rgb(6, 178, 247);
+    }
+
+    #linkedin {
+        width: 3%;
+        padding-right: 1%;
+
+    }
+
+    #github {
+        width: 3%;
+    }
+    #mail {
+        width: 3%;
+        padding-left: 1%;
+
     }
     
     
